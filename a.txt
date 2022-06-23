@@ -1,2 +1,6 @@
 Some text here.
 changes done.
+-----
+Changes from updateRight branch.
+-----
+Changes from updateLeft branch.
